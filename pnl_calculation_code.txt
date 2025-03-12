@@ -1,0 +1,15 @@
+        initial = self.get_coin_qty(coin_name)
+        entry, date_in = self._get_entry(coin_name)
+        entry_exec = self._get_entry_exec(coin_name)
+        try:
+            pnl = np.sign(initial) * (price_exec / entry_exec - 1)
+            exit_slippage = np.sign(initial) * (price_exec / price - 1)
+            pnl_theo = np.sign(initial) * (price / entry - 1)
+        except ZeroDivisionError:
+            pnl = 0
+            exit_slippage = 0
+            pnl_theo = 0
+            self.logger.error(f'Entry price null for {coin_name}')
+        duration = (timestamp.value - date_in) / 1e9 / 3600
+        simple_accounting = [timestamp, coin_name, pnl_theo, duration, self.n_coins]
+	 simple_accounting_real = [timestamp, coin_name, pnl, initial * entry, exit_slippage]
