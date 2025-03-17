@@ -1,0 +1,479 @@
+{
+    "selected": [
+        "SEIUSDT__NEARUSDT",
+        "APTUSDT__INJUSDT",
+        "KAIAUSDT__INJUSDT",
+        "WUSDT__PYTHUSDT",
+        "FLOWUSDT__ZILUSDT",
+        "EOSUSDT__NEOUSDT",
+        "BLURUSDT__THETAUSDT",
+        "COMPUSDT__UNIUSDT",
+        "ICPUSDT__FILUSDT",
+        "RENDERUSDT__GRTUSDT",
+        "GRTUSDT__THETAUSDT",
+        "BATUSDT__NEOUSDT",
+        "ATOMUSDT__DOTUSDT",
+        "MEWUSDT__RENDERUSDT",
+        "YFIUSDT__UNIUSDT",
+        "ENSUSDT__ETHUSDT",
+        "KSMUSDT__MANAUSDT",
+        "PYTHUSDT__ZROUSDT",
+        "BATUSDT__CHZUSDT",
+        "VETUSDT__EOSUSDT",
+        "GASUSDT__NEOUSDT",
+        "POLUSDT__FILUSDT",
+        "CHZUSDT__MANAUSDT",
+        "RENDERUSDT__MEWUSDT",
+        "LINKUSDT__DOTUSDT",
+        "ONTUSDT__BATUSDT",
+        "STORJUSDT__GASUSDT",
+        "ICPUSDT__VETUSDT",
+        "ETHUSDT__ENSUSDT",
+        "YFIUSDT__COMPUSDT",
+        "CELOUSDT__FLOWUSDT",
+        "YFIUSDT__1INCHUSDT",
+        "CKBUSDT__APEUSDT",
+        "BCHUSDT__YFIUSDT",
+        "BLURUSDT__MINAUSDT",
+        "SANDUSDT__MINAUSDT",
+        "BATUSDT__ZILUSDT",
+        "KAIAUSDT__YFIUSDT",
+        "SANDUSDT__MANAUSDT",
+        "SANDUSDT__FILUSDT",
+        "UNIUSDT__ETCUSDT",
+        "DOTUSDT__EOSUSDT",
+        "INJUSDT__SEIUSDT",
+        "FETUSDT__NEARUSDT",
+        "VETUSDT__NEOUSDT",
+        "EOSUSDT__FILUSDT",
+        "MEWUSDT__BLURUSDT",
+        "CKBUSDT__ROSEUSDT",
+        "APEUSDT__ROSEUSDT",
+        "ZKUSDT__ARBUSDT",
+        "RENDERUSDT__THETAUSDT",
+        "DOTUSDT__KSMUSDT",
+        "POLUSDT__ARBUSDT",
+        "WUSDT__CKBUSDT",
+        "NEOUSDT__FILUSDT",
+        "ETCUSDT__ETHUSDT",
+        "CKBUSDT__ZROUSDT",
+        "1INCHUSDT__GASUSDT",
+        "ROSEUSDT__EGLDUSDT",
+        "MANAUSDT__MINAUSDT",
+        "POLUSDT__GRTUSDT",
+        "GASUSDT__BATUSDT",
+        "1INCHUSDT__BATUSDT",
+        "CELOUSDT__CHZUSDT",
+        "FETUSDT__WUSDT",
+        "UNIUSDT__ETHUSDT",
+        "AAVEUSDT__ETHUSDT",
+        "KSMUSDT__EGLDUSDT",
+        "OPUSDT__ENSUSDT",
+        "ETCUSDT__ENSUSDT",
+        "ETHUSDT__LINKUSDT",
+        "STORJUSDT__IDUSDT",
+        "FLOWUSDT__CHZUSDT",
+        "FETUSDT__INJUSDT",
+        "UNIUSDT__ENSUSDT",
+        "MINAUSDT__MANAUSDT",
+        "KAIAUSDT__COMPUSDT",
+        "ICPUSDT__KSMUSDT",
+        "IDUSDT__STORJUSDT",
+        "FLOWUSDT__NEOUSDT",
+        "MANAUSDT__SANDUSDT",
+        "SEIUSDT__ZROUSDT",
+        "NEOUSDT__MANAUSDT",
+        "IDUSDT__CKBUSDT",
+        "BCHUSDT__ETCUSDT",
+        "ROSEUSDT__THETAUSDT",
+        "EGLDUSDT__ZILUSDT",
+        "APEUSDT__BLURUSDT",
+        "BLURUSDT__GRTUSDT",
+        "ONTUSDT__GASUSDT",
+        "MANAUSDT__ZILUSDT",
+        "GASUSDT__ONTUSDT",
+        "MINAUSDT__SANDUSDT",
+        "GRTUSDT__MINAUSDT",
+        "ATOMUSDT__KSMUSDT",
+        "NEARUSDT__LINKUSDT",
+        "CHZUSDT__BATUSDT",
+        "AAVEUSDT__UNIUSDT",
+        "ZILUSDT__NEOUSDT",
+        "IDUSDT__PYTHUSDT",
+        "COMPUSDT__ETCUSDT",
+        "1INCHUSDT__CELOUSDT",
+        "OPUSDT__ZKUSDT",
+        "KSMUSDT__FILUSDT",
+        "CELOUSDT__BATUSDT",
+        "BCHUSDT__KAIAUSDT",
+        "APTUSDT__FETUSDT",
+        "ONTUSDT__NEOUSDT",
+        "ZKUSDT__ZROUSDT",
+        "PYTHUSDT__MEWUSDT",
+        "FILUSDT__MINAUSDT",
+        "VETUSDT__ICPUSDT",
+        "NEARUSDT__RENDERUSDT",
+        "APEUSDT__ZKUSDT",
+        "AAVEUSDT__COMPUSDT",
+        "ARBUSDT__POLUSDT",
+        "GRTUSDT__ZILUSDT",
+        "APTUSDT__BCHUSDT",
+        "WUSDT__ZROUSDT",
+        "THETAUSDT__GRTUSDT",
+        "ZROUSDT__BLURUSDT",
+        "INJUSDT__NEARUSDT",
+        "THETAUSDT__MANAUSDT",
+        "THETAUSDT__MINAUSDT",
+        "ATOMUSDT__EOSUSDT",
+        "ROSEUSDT__APEUSDT",
+        "ZROUSDT__RENDERUSDT",
+        "ARBUSDT__FILUSDT",
+        "COMPUSDT__YFIUSDT",
+        "ENSUSDT__ETCUSDT",
+        "EGLDUSDT__MANAUSDT",
+        "ARBUSDT__SANDUSDT",
+        "MINAUSDT__ZILUSDT",
+        "ZKUSDT__APEUSDT",
+        "STORJUSDT__ONTUSDT",
+        "ETCUSDT__LINKUSDT",
+        "CHZUSDT__FLOWUSDT",
+        "LINKUSDT__ENSUSDT",
+        "INJUSDT__FETUSDT",
+        "NEARUSDT__DOTUSDT",
+        "ZILUSDT__MINAUSDT",
+        "OPUSDT__ETHUSDT",
+        "ZROUSDT__ZKUSDT",
+        "ENSUSDT__ARBUSDT",
+        "EOSUSDT__ATOMUSDT",
+        "SEIUSDT__PYTHUSDT",
+        "EGLDUSDT__MINAUSDT",
+        "MEWUSDT__APEUSDT",
+        "LINKUSDT__ICPUSDT",
+        "PYTHUSDT__SEIUSDT",
+        "ETHUSDT__UNIUSDT",
+        "FILUSDT__SANDUSDT",
+        "DOTUSDT__ATOMUSDT",
+        "FILUSDT__MANAUSDT",
+        "ZILUSDT__MANAUSDT",
+        "NEOUSDT__ZILUSDT"
+    ],
+    "peers": {
+        "MANAUSDT": [
+            "MANAUSDT",
+            "SANDUSDT",
+            "ZILUSDT",
+            "MINAUSDT"
+        ],
+        "SANDUSDT": [
+            "SANDUSDT",
+            "MANAUSDT",
+            "MINAUSDT",
+            "FILUSDT"
+        ],
+        "MINAUSDT": [
+            "MINAUSDT",
+            "SANDUSDT",
+            "ZILUSDT",
+            "MANAUSDT"
+        ],
+        "ZILUSDT": [
+            "ZILUSDT",
+            "MINAUSDT",
+            "MANAUSDT",
+            "NEOUSDT"
+        ],
+        "THETAUSDT": [
+            "THETAUSDT",
+            "MANAUSDT",
+            "MINAUSDT",
+            "GRTUSDT"
+        ],
+        "FILUSDT": [
+            "FILUSDT",
+            "SANDUSDT",
+            "MANAUSDT",
+            "MINAUSDT"
+        ],
+        "NEOUSDT": [
+            "NEOUSDT",
+            "ZILUSDT",
+            "MANAUSDT",
+            "FILUSDT"
+        ],
+        "GRTUSDT": [
+            "GRTUSDT",
+            "MINAUSDT",
+            "THETAUSDT",
+            "ZILUSDT"
+        ],
+        "EGLDUSDT": [
+            "EGLDUSDT",
+            "MANAUSDT",
+            "MINAUSDT",
+            "ZILUSDT"
+        ],
+        "ARBUSDT": [
+            "ARBUSDT",
+            "POLUSDT",
+            "FILUSDT",
+            "SANDUSDT"
+        ],
+        "POLUSDT": [
+            "POLUSDT",
+            "ARBUSDT",
+            "GRTUSDT",
+            "FILUSDT"
+        ],
+        "KSMUSDT": [
+            "KSMUSDT",
+            "EGLDUSDT",
+            "FILUSDT",
+            "MANAUSDT"
+        ],
+        "ENSUSDT": [
+            "ENSUSDT",
+            "ETHUSDT",
+            "ARBUSDT",
+            "ETCUSDT"
+        ],
+        "ETHUSDT": [
+            "ETHUSDT",
+            "ENSUSDT",
+            "UNIUSDT",
+            "LINKUSDT"
+        ],
+        "ATOMUSDT": [
+            "ATOMUSDT",
+            "DOTUSDT",
+            "EOSUSDT",
+            "KSMUSDT"
+        ],
+        "DOTUSDT": [
+            "DOTUSDT",
+            "ATOMUSDT",
+            "EOSUSDT",
+            "KSMUSDT"
+        ],
+        "ICPUSDT": [
+            "ICPUSDT",
+            "FILUSDT",
+            "KSMUSDT",
+            "VETUSDT"
+        ],
+        "GASUSDT": [
+            "GASUSDT",
+            "ONTUSDT",
+            "NEOUSDT",
+            "BATUSDT"
+        ],
+        "ONTUSDT": [
+            "ONTUSDT",
+            "GASUSDT",
+            "NEOUSDT",
+            "BATUSDT"
+        ],
+        "EOSUSDT": [
+            "EOSUSDT",
+            "NEOUSDT",
+            "FILUSDT",
+            "ATOMUSDT"
+        ],
+        "FLOWUSDT": [
+            "FLOWUSDT",
+            "ZILUSDT",
+            "NEOUSDT",
+            "CHZUSDT"
+        ],
+        "ZKUSDT": [
+            "ZKUSDT",
+            "ZROUSDT",
+            "ARBUSDT",
+            "APEUSDT"
+        ],
+        "ZROUSDT": [
+            "ZROUSDT",
+            "ZKUSDT",
+            "RENDERUSDT",
+            "BLURUSDT"
+        ],
+        "VETUSDT": [
+            "VETUSDT",
+            "ICPUSDT",
+            "NEOUSDT",
+            "EOSUSDT"
+        ],
+        "BLURUSDT": [
+            "BLURUSDT",
+            "GRTUSDT",
+            "MINAUSDT",
+            "THETAUSDT"
+        ],
+        "BATUSDT": [
+            "BATUSDT",
+            "CHZUSDT",
+            "ZILUSDT",
+            "NEOUSDT"
+        ],
+        "CHZUSDT": [
+            "CHZUSDT",
+            "BATUSDT",
+            "FLOWUSDT",
+            "MANAUSDT"
+        ],
+        "ROSEUSDT": [
+            "ROSEUSDT",
+            "EGLDUSDT",
+            "APEUSDT",
+            "THETAUSDT"
+        ],
+        "APEUSDT": [
+            "APEUSDT",
+            "ROSEUSDT",
+            "BLURUSDT",
+            "ZKUSDT"
+        ],
+        "CELOUSDT": [
+            "CELOUSDT",
+            "CHZUSDT",
+            "FLOWUSDT",
+            "BATUSDT"
+        ],
+        "MEWUSDT": [
+            "MEWUSDT",
+            "RENDERUSDT",
+            "BLURUSDT",
+            "APEUSDT"
+        ],
+        "RENDERUSDT": [
+            "RENDERUSDT",
+            "MEWUSDT",
+            "THETAUSDT",
+            "GRTUSDT"
+        ],
+        "LINKUSDT": [
+            "LINKUSDT",
+            "ICPUSDT",
+            "DOTUSDT",
+            "ENSUSDT"
+        ],
+        "ETCUSDT": [
+            "ETCUSDT",
+            "ENSUSDT",
+            "ETHUSDT",
+            "LINKUSDT"
+        ],
+        "1INCHUSDT": [
+            "1INCHUSDT",
+            "BATUSDT",
+            "GASUSDT",
+            "CELOUSDT"
+        ],
+        "UNIUSDT": [
+            "UNIUSDT",
+            "ETHUSDT",
+            "ENSUSDT",
+            "ETCUSDT"
+        ],
+        "PYTHUSDT": [
+            "PYTHUSDT",
+            "MEWUSDT",
+            "SEIUSDT",
+            "ZROUSDT"
+        ],
+        "NEARUSDT": [
+            "NEARUSDT",
+            "RENDERUSDT",
+            "LINKUSDT",
+            "DOTUSDT"
+        ],
+        "OPUSDT": [
+            "OPUSDT",
+            "ETHUSDT",
+            "ENSUSDT",
+            "ZKUSDT"
+        ],
+        "SEIUSDT": [
+            "SEIUSDT",
+            "PYTHUSDT",
+            "NEARUSDT",
+            "ZROUSDT"
+        ],
+        "CKBUSDT": [
+            "CKBUSDT",
+            "APEUSDT",
+            "ZROUSDT",
+            "ROSEUSDT"
+        ],
+        "IDUSDT": [
+            "IDUSDT",
+            "STORJUSDT",
+            "PYTHUSDT",
+            "CKBUSDT"
+        ],
+        "STORJUSDT": [
+            "STORJUSDT",
+            "IDUSDT",
+            "GASUSDT",
+            "ONTUSDT"
+        ],
+        "AAVEUSDT": [
+            "AAVEUSDT",
+            "UNIUSDT",
+            "ETHUSDT",
+            "COMPUSDT"
+        ],
+        "WUSDT": [
+            "WUSDT",
+            "PYTHUSDT",
+            "CKBUSDT",
+            "ZROUSDT"
+        ],
+        "INJUSDT": [
+            "INJUSDT",
+            "NEARUSDT",
+            "SEIUSDT",
+            "FETUSDT"
+        ],
+        "COMPUSDT": [
+            "COMPUSDT",
+            "UNIUSDT",
+            "YFIUSDT",
+            "ETCUSDT"
+        ],
+        "FETUSDT": [
+            "FETUSDT",
+            "INJUSDT",
+            "NEARUSDT",
+            "WUSDT"
+        ],
+        "YFIUSDT": [
+            "YFIUSDT",
+            "COMPUSDT",
+            "1INCHUSDT",
+            "UNIUSDT"
+        ],
+        "KAIAUSDT": [
+            "KAIAUSDT",
+            "INJUSDT",
+            "YFIUSDT",
+            "COMPUSDT"
+        ],
+        "BCHUSDT": [
+            "BCHUSDT",
+            "ETCUSDT",
+            "YFIUSDT",
+            "KAIAUSDT"
+        ],
+        "APTUSDT": [
+            "APTUSDT",
+            "BCHUSDT",
+            "INJUSDT",
+            "FETUSDT"
+        ]
+    },
+    "coins_exiting": [
+        "MANTAUSDT",
+        "DRIFTUSDT",
+        "RENDERUSDT"
+    ]
+}
